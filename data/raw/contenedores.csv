@@ -1,0 +1,92 @@
+id,tipo,barrio,ubicacion,lat,lon,capacidad_kg,zona_restringida,sector_actual,fecha_alta
+BASE,BASE,Guadalcacín,"Sede central Madre Coraje (C/ Cañada Ancha s/n, Guadalcacín)",36.7186,-6.0903,,no,,
+TEX-001,TEX,Centro,calle,36.68226,-6.13776,220.0,si,V1,2024-11-01
+TEX-002,TEX,Centro,supermercado,36.68553,-6.14074,220.0,si,V1,2024-11-01
+TEX-003,TEX,Centro,colegio,36.68849,-6.13708,220.0,si,X1,2024-11-01
+TEX-004,TEX,Centro,supermercado,36.68735,-6.13745,220.0,si,V1,2024-11-01
+TEX-005,TEX,Centro,punto limpio,36.68824,-6.14027,220.0,si,X1,2024-11-01
+TEX-006,TEX,Centro,calle,36.68648,-6.13323,220.0,si,V1,2024-11-01
+ACE-001,ACE,Centro,mercado,36.68875,-6.13795,130.0,si,B,2024-11-01
+ACE-002,ACE,Centro,calle,36.68561,-6.14066,130.0,si,B,2024-11-01
+ACE-003,ACE,Centro,calle,36.68702,-6.13456,130.0,si,B,2024-11-01
+ACE-004,ACE,Centro,calle,36.68785,-6.13318,130.0,si,B,2024-11-01
+ACE-005,ACE,Centro,mercado,36.68696,-6.13685,130.0,si,B,2024-11-01
+TEX-007,TEX,San Miguel,punto limpio,36.6802,-6.13489,220.0,no,L2,2024-11-01
+TEX-008,TEX,San Miguel,supermercado,36.67937,-6.13349,220.0,no,L2,2024-11-01
+TEX-009,TEX,San Miguel,calle,36.67984,-6.13458,220.0,no,L2,2024-11-01
+TEX-010,TEX,San Miguel,parroquia,36.67819,-6.13496,220.0,no,L2,2024-11-01
+ACE-006,ACE,San Miguel,calle,36.68031,-6.13174,130.0,no,C,2024-11-01
+ACE-007,ACE,San Miguel,supermercado,36.67987,-6.13041,130.0,no,C,2024-11-01
+TEX-011,TEX,Santiago,calle,36.688,-6.14457,220.0,no,X1,2024-11-01
+TEX-012,TEX,Santiago,parroquia,36.69195,-6.14331,220.0,no,L1,2024-11-01
+TEX-013,TEX,Santiago,colegio,36.69144,-6.14092,220.0,no,X1,2024-11-01
+TEX-014,TEX,Santiago,calle,36.69183,-6.14243,220.0,no,L1,2024-11-01
+ACE-008,ACE,Santiago,calle,36.68909,-6.14221,130.0,no,A,2024-11-01
+ACE-009,ACE,Santiago,calle,36.69155,-6.14063,130.0,no,A,2024-11-01
+TEX-015,TEX,San Benito,calle,36.67382,-6.14698,220.0,no,L2,2024-11-01
+TEX-016,TEX,San Benito,calle,36.67752,-6.14355,220.0,no,V1,2024-11-01
+TEX-017,TEX,San Benito,calle,36.68019,-6.14513,220.0,no,V1,2024-11-01
+TEX-018,TEX,San Benito,calle,36.67337,-6.14425,220.0,no,L2,2024-11-01
+TEX-019,TEX,San Benito,punto limpio,36.67954,-6.14317,220.0,no,V1,2024-11-01
+ACE-010,ACE,San Benito,calle,36.6738,-6.14364,130.0,no,C,2024-11-01
+ACE-011,ACE,San Benito,calle,36.67746,-6.14109,130.0,no,C,2024-11-01
+TEX-020,TEX,La Plata,calle,36.67019,-6.12478,220.0,no,X2,2024-11-01
+TEX-021,TEX,La Plata,calle,36.67096,-6.12694,220.0,no,X2,2026-09-01
+TEX-022,TEX,La Plata,calle,36.67195,-6.12957,220.0,no,X2,2024-11-01
+TEX-023,TEX,La Plata,calle,36.67079,-6.13068,220.0,no,X2,2024-11-01
+TEX-024,TEX,La Plata,supermercado,36.67193,-6.12852,220.0,no,X2,2024-11-01
+ACE-012,ACE,La Plata,calle,36.67067,-6.12568,130.0,no,D,2024-11-01
+ACE-013,ACE,La Plata,supermercado,36.67519,-6.12758,130.0,no,D,2024-11-01
+TEX-025,TEX,Picadueñas,punto limpio,36.67311,-6.11931,220.0,no,V2,2024-11-01
+TEX-026,TEX,Picadueñas,supermercado,36.66655,-6.11846,220.0,no,V2,2024-11-01
+TEX-027,TEX,Picadueñas,supermercado,36.67162,-6.11079,220.0,no,V2,2024-11-01
+TEX-028,TEX,Picadueñas,supermercado,36.6711,-6.11029,220.0,no,V2,2024-11-01
+ACE-014,ACE,Picadueñas,calle,36.67231,-6.11021,130.0,no,D,2024-11-01
+ACE-015,ACE,Picadueñas,calle,36.67051,-6.11715,130.0,no,D,2024-11-01
+TEX-029,TEX,Hijuela de Lérida,calle,36.66567,-6.1373,220.0,no,X2,2024-11-01
+TEX-030,TEX,Hijuela de Lérida,calle,36.66558,-6.13907,220.0,no,X2,2024-11-01
+TEX-031,TEX,Hijuela de Lérida,supermercado,36.66753,-6.14003,220.0,no,X2,2024-11-01
+TEX-032,TEX,Hijuela de Lérida,calle,36.66318,-6.13715,220.0,no,X2,2026-06-15
+ACE-016,ACE,Hijuela de Lérida,supermercado,36.66737,-6.13281,130.0,no,D,2024-11-01
+ACE-017,ACE,Hijuela de Lérida,zona de bares,36.66695,-6.14001,130.0,no,C,2024-11-01
+TEX-033,TEX,Chapín,calle,36.69295,-6.13135,220.0,no,X1,2024-11-01
+TEX-034,TEX,Chapín,calle,36.69611,-6.13062,220.0,no,X1,2024-11-01
+TEX-035,TEX,Chapín,calle,36.69567,-6.1265,220.0,no,X1,2024-11-01
+TEX-036,TEX,Chapín,calle,36.69493,-6.12437,220.0,no,V1,2024-11-01
+ACE-018,ACE,Chapín,supermercado,36.69045,-6.13018,130.0,no,B,2024-11-01
+ACE-019,ACE,Chapín,supermercado,36.69609,-6.12817,130.0,no,A,2024-11-01
+TEX-037,TEX,El Pelirón,calle,36.69419,-6.12357,220.0,no,V1,2024-11-01
+TEX-038,TEX,El Pelirón,calle,36.69836,-6.1242,220.0,no,X1,2024-11-01
+TEX-039,TEX,El Pelirón,calle,36.69467,-6.11854,220.0,no,L2,2024-11-01
+ACE-020,ACE,El Pelirón,calle,36.69346,-6.11962,130.0,no,C,2024-11-01
+ACE-021,ACE,El Pelirón,supermercado,36.69427,-6.12139,130.0,no,C,2024-11-01
+TEX-040,TEX,La Granja,calle,36.69813,-6.11159,220.0,no,L2,2024-11-01
+TEX-041,TEX,La Granja,parroquia,36.69819,-6.1144,220.0,no,L2,2024-11-01
+TEX-042,TEX,La Granja,punto limpio,36.70097,-6.1173,220.0,no,X1,2024-11-01
+TEX-043,TEX,La Granja,punto limpio,36.70019,-6.11794,220.0,no,V1,2024-11-01
+TEX-044,TEX,La Granja,supermercado,36.69526,-6.1149,220.0,no,L2,2024-11-01
+ACE-022,ACE,La Granja,supermercado,36.70224,-6.11721,130.0,no,A,2024-11-01
+ACE-023,ACE,La Granja,calle,36.69488,-6.11709,130.0,no,C,2024-11-01
+ACE-024,ACE,La Granja,calle,36.70015,-6.11795,130.0,no,B,2024-11-01
+TEX-045,TEX,Zona Norte,calle,36.70176,-6.12218,220.0,no,X1,2024-11-01
+TEX-046,TEX,Zona Norte,parroquia,36.70632,-6.12631,220.0,no,L1,2024-11-01
+TEX-047,TEX,Zona Norte,calle,36.70327,-6.12299,220.0,no,L1,2024-11-01
+TEX-048,TEX,Zona Norte,calle,36.70222,-6.12605,220.0,no,L1,2024-11-01
+TEX-049,TEX,Zona Norte,calle,36.70184,-6.13102,220.0,no,L1,2024-11-01
+ACE-025,ACE,Zona Norte,colegio,36.70427,-6.12131,130.0,no,A,2024-11-01
+ACE-026,ACE,Zona Norte,supermercado,36.70465,-6.13181,130.0,no,A,2024-11-01
+TEX-050,TEX,Montealto,parroquia,36.70809,-6.13961,220.0,no,L1,2024-11-01
+TEX-051,TEX,Montealto,supermercado,36.70487,-6.13904,220.0,no,L1,2024-11-01
+TEX-052,TEX,Montealto,calle,36.70492,-6.13624,220.0,no,L1,2024-11-01
+TEX-053,TEX,Montealto,supermercado,36.7036,-6.14112,220.0,no,L1,2024-11-01
+ACE-027,ACE,Montealto,supermercado,36.7101,-6.13443,130.0,no,A,2024-11-01
+ACE-028,ACE,Montealto,calle,36.70568,-6.1351,130.0,no,A,2024-11-01
+TEX-054,TEX,Estancia Barrera,supermercado,36.68583,-6.10484,220.0,no,V2,2024-11-01
+TEX-055,TEX,Estancia Barrera,calle,36.68964,-6.10439,220.0,no,V2,2024-11-01
+TEX-056,TEX,Estancia Barrera,calle,36.69166,-6.1084,220.0,no,X2,2024-11-01
+TEX-057,TEX,Estancia Barrera,calle,36.68525,-6.10314,220.0,no,V2,2024-11-01
+ACE-029,ACE,Estancia Barrera,calle,36.68949,-6.1067,130.0,no,D,2024-11-01
+TEX-058,TEX,Guadalcacín,calle,36.72062,-6.0858,220.0,no,V2,2024-11-01
+TEX-059,TEX,Guadalcacín,calle,36.71685,-6.09054,220.0,no,V2,2024-11-01
+TEX-060,TEX,Guadalcacín,parroquia,36.71854,-6.08523,220.0,no,V2,2026-10-05
+ACE-030,ACE,Guadalcacín,calle,36.71675,-6.08677,130.0,no,D,2024-11-01
