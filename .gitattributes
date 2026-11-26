@@ -1,0 +1,48 @@
+# Automatically normalize text files
+* text=auto
+
+# Source code
+*.py text eol=lf
+*.js text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+
+# Configuration files
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf
+
+# Documentation
+*.md text eol=lf
+*.txt text eol=lf
+
+# Datasets
+*.csv text eol=lf
+*.tsv text eol=lf
+
+# Jupyter notebooks
+*.ipynb text eol=lf
+
+# Scripts
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# Binary documents
+*.pdf binary
+*.docx binary
+*.xlsx binary
+*.pptx binary
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg text eol=lf
+
+# Compressed files
+*.zip binary
+*.gz binary
+*.tar binary
